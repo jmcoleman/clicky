@@ -24,7 +24,7 @@ Testing was done by playing the game.
 
 ## Deployment
 
-The project is deployed to Github pages at TBD
+The project is deployed to Github pages at https://jmcoleman.github.io/clicky
 
 ## Built With
 
