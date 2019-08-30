@@ -4,7 +4,7 @@ Clicky is a simple memory game using React. A series of images are presented and
 **Problem it solves:** \
 Clicky assists with memory recall and provides beautiful images that stimulate your mind with brain exercise. \
 **How solved:** \
-Images are shown and the selects each image they have not choosen previously. \
+Images are shown for the player to selects an image they have not choosen previously until all images have been selected. \
 **Technical approach:** \
 The project leverages React to provide componentization of game images, header, footer and game stats.
 
